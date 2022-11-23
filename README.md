@@ -1,1 +1,1 @@
-# dcgan(Deep Convolutional Generative Adversarial Network)-MNIST
+# (Deep Convolutional Generative Adversarial Network)-MNIST dataset
