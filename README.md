@@ -18,3 +18,9 @@ Generator Loss: ▽ log(1-Discrminator(Generated image))<br>
 
 * Below given is a architectural view of GAN.<br><kbd><img src="https://miro.medium.com/max/601/1*Y_AGVp0EEGEpB1Q25G6edQ.jpeg"/></kbd>
 
+The results from the DCGAN training on MNIST dataset are:
+
+
+![](https://github.com/chiggshiggs/dcgan-MNIST/blob/main/final.png)
+
+
